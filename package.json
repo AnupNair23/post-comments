@@ -19,7 +19,7 @@
     "debug": "~2.6.9",
     "dotenv": "^8.1.0",
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.1",
     "node-ses": "^2.2.1",
